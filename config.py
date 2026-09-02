@@ -7,7 +7,7 @@ import os
 # Add your Telegram User ID here (get it from @userinfobot)
 ADMIN_IDS = [
     8725194109,
-    8023793790  # Replace with your Telegram user ID
+    8023793790,  # Replace with your Telegram user ID
 ]
 
 # ============ DATABASE ============
